@@ -8,56 +8,6 @@ html{
 	background-repeat: no-repeat;
 	background-position:.center 4in;
 	}
-html{
-	/*background-image: url("logo-zodiac.jpg");*/
-	background-repeat: no-repeat;
-	background-position:.center 4in;
-	}
-html{
-	/*background-image: url("r&r logo.jpg");*/
-	background-repeat: no-repeat;
-	background-position:.center 4in;
-	}
-html{
-	/*background-image: url("nafhc_logo.jpg");*/
-	background-repeat: no-repeat;
-	background-position:.center 4in;
-	}
-html{
-	/*background-image: url("gas rack.jpg");*/
-	background-repeat: no-repeat;
-	background-position:.center 4in;
-	}
-html{
-	/*background-image: url("hydraulic sketch.jpg");*/
-	background-repeat: no-repeat;
-	background-position:.center 4in;
-	}
-html{
-	/*background-image: url("final project.jpg");*/
-	background-repeat: no-repeat;
-	background-position:.center 4in;
-	}
-html{
-	/*background-image: url("search map.jpg");*/
-	background-repeat: no-repeat;
-	background-position:.center 4in;
-	}
-html{
-	/*background-image: url("dive inspection.jpg");*/
-	background-repeat: no-repeat;
-	background-position:.center 4in;
-	}
-html{
-	/*background-image: url("matts camper.jpg");*/
-	background-repeat: no-repeat;
-	background-position:.center 4in;
-	}
-html{
-	/*background-image: url("music store.jpg");*/
-	background-repeat: no-repeat;
-	background-position:.center 4in;
-	}
 p 	{
 	font-family:"Times New Roman", Times, serif;	
 	font-size: 15pt;
@@ -82,7 +32,7 @@ p 	{
 	color: white;
 	}
 .content2 {
-	width: 8.85in;
+	width: 5.85in;
 	margin: .0in .0in;
 	background-color: rgba(100,100,0,0.25);
 	padding: 0.2in 0.2in;
@@ -114,12 +64,12 @@ p 	{
 	margin-left: 0.75in;
 	}
 .left-column {
-	width:6.25in;
-	float:left;
+	width: 6.25in;
+	float: left;
 }
 .right-column {
-	width:9.25in;
-	float:right;
+	width: 6.25in;
+	float: right;
 }
 .headder-video {
 	padding: 0.2in 0.2in;
