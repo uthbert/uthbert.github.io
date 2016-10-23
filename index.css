@@ -1,0 +1,134 @@
+html{
+	/*background-image: url("mdtlogo.bev_.03.jpeg");*/
+	background-repeat: no-repeat;
+	background-position:.center;
+	}
+html{
+	/*background-image: url("background.jpg");*/
+	background-repeat: no-repeat;
+	background-position:.center 4in;
+	}
+html{
+	/*background-image: url("logo-zodiac.jpg");*/
+	background-repeat: no-repeat;
+	background-position:.center 4in;
+	}
+html{
+	/*background-image: url("r&r logo.jpg");*/
+	background-repeat: no-repeat;
+	background-position:.center 4in;
+	}
+html{
+	/*background-image: url("nafhc_logo.jpg");*/
+	background-repeat: no-repeat;
+	background-position:.center 4in;
+	}
+html{
+	/*background-image: url("gas rack.jpg");*/
+	background-repeat: no-repeat;
+	background-position:.center 4in;
+	}
+html{
+	/*background-image: url("hydraulic sketch.jpg");*/
+	background-repeat: no-repeat;
+	background-position:.center 4in;
+	}
+html{
+	/*background-image: url("final project.jpg");*/
+	background-repeat: no-repeat;
+	background-position:.center 4in;
+	}
+html{
+	/*background-image: url("search map.jpg");*/
+	background-repeat: no-repeat;
+	background-position:.center 4in;
+	}
+html{
+	/*background-image: url("dive inspection.jpg");*/
+	background-repeat: no-repeat;
+	background-position:.center 4in;
+	}
+html{
+	/*background-image: url("matts camper.jpg");*/
+	background-repeat: no-repeat;
+	background-position:.center 4in;
+	}
+html{
+	/*background-image: url("music store.jpg");*/
+	background-repeat: no-repeat;
+	background-position:.center 4in;
+	}
+p 	{
+	font-family:"Times New Roman", Times, serif;	
+	font-size: 15pt;
+	}	
+.fixed-bg {
+    background-image: url("bkg.jpg");
+    min-height: 50in;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.backing-image {
+	width: cover;
+	float: hidden;
+}
+.content {
+	width: 5.85in;
+	margin: .0in .0in;
+	background-color: rgba(100,100,255,0.5);
+	padding: 0.2in 0.2in;
+	color: white;
+	}
+.content2 {
+	width: 8.85in;
+	margin: .0in .0in;
+	background-color: rgba(100,100,0,0.25);
+	padding: 0.2in 0.2in;
+	color: white;
+	}
+.background-content {
+	width: cover;
+	margin: .0in .0in;
+	background-color: rgba(0,0,0,1);
+	padding: 0.0in 0.0in;
+	color: transparent;
+	}
+.me-img	{
+	margin: 16px auto;
+	}
+.me-img-container	{
+	text-align: center;
+	}
+.centered-words {
+	text-align: center;
+	}
+.indent1 {
+	margin-left: 0.25in;
+	}
+.indent2 {
+	margin-left: 0.5in;
+	}
+.indent3 {
+	margin-left: 0.75in;
+	}
+.left-column {
+	width:6.25in;
+	float:left;
+}
+.right-column {
+	width:9.25in;
+	float:right;
+}
+.headder-video {
+	padding: 0.2in 0.2in;
+    max-width: 1000px;
+    max-height: 563px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container {
+    width: 100%;
+    float: left;
+}
